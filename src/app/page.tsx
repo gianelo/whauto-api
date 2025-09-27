@@ -7,9 +7,9 @@ export default function Home() {
       <main className={styles.main}>
         <Image
           src="/assets/image/w.svg"
-          alt="Next.js logo"
-          width={1000}
-          height={1000}
+          alt="Whauto API Logo"
+          width={900}
+          height={900}
           priority
         />
       </main>
